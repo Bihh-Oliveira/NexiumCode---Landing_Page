@@ -1,2 +1,2 @@
 # NexiumCode---Landing_Page
-Landing Page desenvolvida para exercitar meus conceitos de Web Design, UI/UX e desenvolvimento front-end.
+O objetivo é transformar teoria em código, testando diferentes layouts, bibliotecas e técnicas de otimização.
